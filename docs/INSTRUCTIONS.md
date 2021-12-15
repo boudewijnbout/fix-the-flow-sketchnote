@@ -54,11 +54,11 @@ Deze opdracht gaat over de volgende fases van de DLC: [analyseren](#analyseren) 
 <summary>Aanpak</summary>
 
    Tijdens de talk:
-   1. Leg in kernwoorden en tekeningen de belangrijkste informatie vast op post-its (of meteen op papier, als je durft).
+   Leg in kernwoorden en tekeningen de belangrijkste informatie vast op post-its (of meteen op papier, als je durft).
    Na de talk:
-   2. Werk de sketchnote uit.
-      Pas hierarchie toe dmv: typografie (gebruik bijvoorbeeld verschillende lijndiktes en grootte).
-      Gebruik kleur functioneel (maximaal twee kleuren)
+   Werk de sketchnote uit.
+   Pas hierarchie toe dmv: typografie (gebruik bijvoorbeeld verschillende lijndiktes en grootte).
+   Gebruik kleur functioneel (maximaal twee kleuren)
 
 #### Materiaal ontwerpfase
 
