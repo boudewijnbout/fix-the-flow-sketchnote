@@ -4,8 +4,7 @@ Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
 
 # Fix the Flow - Sketchnote
 
-
-{Maak een sketchnote van de We love Web talk van vrijdag 17 december}.
+Maak een sketchnote van de We love Web talk van vrijdag 17 december.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
