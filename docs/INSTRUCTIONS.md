@@ -2,80 +2,51 @@ De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
 
 Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
 
-# {Naam}
+# Fix the Flow - Sketchnote
 
-{Beschrijving van de leertaak}.
+
+{Maak een sketchnote van de We love Web talk van vrijdag 17 december}.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Deze leertaak hoort bij sprint 5 "Fix the Flow". Dit is een deeltaak die je individueel uitvoert. Dit is een deeltaak die je individueel uitvoert.
 
-
-## Briefing
-*In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
-
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
 
-{beschrijf de taak in actieve taal: Je leert hoe...}
+Je oefent in het mken van een visueel verslag. 
 
-<table>
-    <tr>
-        <td colspan="4"><b>Week 1</b></td>
-    </tr>
-    <tr>
-        <td>Maandag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Briefing</td>
-    </tr>
-    <tr>
-        <td>Dinsdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Debriefing</td>
-    </tr>
-    <tr>
-        <td colspan="4"><b>Week 2</b></td>
-    </tr>
-    <tr>
-        <td>Dinsdag, woensdag of donderdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Feedbacksessie</td>
-    </tr>
-    <tr>
-        <td colspan="4"><b>Week 3</b></td>
-    </tr>
-    <tr>
-        <td>Donderdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Oplevering</td>
-    </tr>
-</table>
-* vanaf 13:00 uur
+
 
 ## Werkwijze
 *De werkwijze volgt de fasering van de Development Life Cycle.*
 
-{geef de opdracht, in meer of mindere mate van sturing afhankelijk van het niveau van de taak}
+Opdracht: maak een sketchnote van de talk van Cyd Stumpel (de We love Web sessie van 17 december).
 
-Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+Deze opdracht gaat over de volgende fases van de DLC: [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 
 ### Analyseren
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
 
 <details>
 <summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+Voor de talk begint: 
+   Teken het volgende:
+1. Een titel (zie hiervoor de oefening tijdens de workshop)
+2. Een simpel portretje van de persoon die de talk geeft (zie hiervoor de oefening tijdens de workshop)
+3. De datum en tijd
+4. Een plan voor je typografie (zie hiervoor de oefening tijdens de workshop)
+5. Een plan voor je 'chuncks' met informatie (zie hiervoor de oefening tijdens de workshop)
+    
+Tijdens de talk:
+    Probeer in kernwoorden en tekeningen de belangrijkste informatie vast te leggen op post-its (of meteen op papier, als je durft).
+    
+Na de talk:
+    Werk de sketchnote uit. 
+    Pas hierarchie toe dmv: typografie (gebruik bijvoorbeeld verschillende lijndiktes en grootte).
+    Gebruik kleur functioneel (maximaal twee kleuren)
 
 #### Materiaal analysefase
 
