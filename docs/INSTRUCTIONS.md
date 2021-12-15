@@ -16,7 +16,7 @@ Deze leertaak hoort bij sprint 5 "Fix the Flow". Dit is een deeltaak die je indi
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
 
-Je oefent in het mken van een visueel verslag. 
+Je oefent in het maken van een visueel verslag. 
 
 
 
@@ -28,7 +28,7 @@ Opdracht: maak een sketchnote van de talk van Cyd Stumpel (de We love Web sessie
 Deze opdracht gaat over de volgende fases van de DLC: [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 
 ### Analyseren
-*In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
+*In de analysefase bereid je de sketchnote voor.*
 
 <details>
 <summary>Aanpak</summary>
@@ -40,13 +40,7 @@ Voor de talk begint:
 4. Een plan voor je typografie (zie hiervoor de oefening tijdens de workshop)
 5. Een plan voor je 'chuncks' met informatie (zie hiervoor de oefening tijdens de workshop)
     
-Tijdens de talk:
-    Probeer in kernwoorden en tekeningen de belangrijkste informatie vast te leggen op post-its (of meteen op papier, als je durft).
-    
-Na de talk:
-    Werk de sketchnote uit. 
-    Pas hierarchie toe dmv: typografie (gebruik bijvoorbeeld verschillende lijndiktes en grootte).
-    Gebruik kleur functioneel (maximaal twee kleuren)
+
 
 #### Materiaal analysefase
 
