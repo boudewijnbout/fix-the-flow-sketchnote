@@ -48,7 +48,7 @@ Deze opdracht gaat over de volgende fases van de DLC: [analyseren](#analyseren) 
 </details>
 
 ### Ontwerpen
-*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
+*In de ontwerpfase maak je aantekeningen tijdens de talk om ze vervolgens uit te werken in een heldere, kernachtige sketchnote.*
 
 <details>
 <summary>Aanpak</summary>
