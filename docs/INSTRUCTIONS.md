@@ -7,20 +7,16 @@ Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
 Maak een sketchnote van de We love Web talk van vrijdag 17 december.
 
 ## Context
-*Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
 Deze leertaak hoort bij sprint 5 "Fix the Flow". Dit is een deeltaak die je individueel uitvoert. Dit is een deeltaak die je individueel uitvoert.
 
 
 ## Doel van deze opdracht
-*Wat leer je in deze taak.*
 
 Je oefent in het maken van een visueel verslag. 
 
 
-
 ## Werkwijze
-*De werkwijze volgt de fasering van de Development Life Cycle.*
 
 Opdracht: maak een sketchnote van de talk van Cyd Stumpel (de We love Web sessie van 17 december).
 
@@ -57,11 +53,10 @@ Deze opdracht gaat over de volgende fases van de DLC: [analyseren](#analyseren) 
 <details>
 <summary>Aanpak</summary>
 
-Tijdens de talk.
-    1. Leg in kernwoorden en tekeningen de belangrijkste informatie vast op post-its (of meteen op papier, als je durft).
-    
-Na de talk.
-    2. Werk de sketchnote uit: 
+   Tijdens de talk:
+   1. Leg in kernwoorden en tekeningen de belangrijkste informatie vast op post-its (of meteen op papier, als je durft).
+   Na de talk:
+   2. Werk de sketchnote uit.
       Pas hierarchie toe dmv: typografie (gebruik bijvoorbeeld verschillende lijndiktes en grootte).
       Gebruik kleur functioneel (maximaal twee kleuren)
 
