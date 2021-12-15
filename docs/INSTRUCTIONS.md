@@ -32,7 +32,9 @@ Deze opdracht gaat over de volgende fases van de DLC: [analyseren](#analyseren) 
 
 <details>
 <summary>Aanpak</summary>
-Voor de talk begint: 
+
+   Voor de talk begint.
+   
    Teken het volgende:
 1. Een titel (zie hiervoor de oefening tijdens de workshop)
 2. Een simpel portretje van de persoon die de talk geeft (zie hiervoor de oefening tijdens de workshop)
@@ -56,11 +58,11 @@ Voor de talk begint:
 <details>
 <summary>Aanpak</summary>
 
-Tijdens de talk:
-    Probeer in kernwoorden en tekeningen de belangrijkste informatie vast te leggen op post-its (of meteen op papier, als je durft).
+Tijdens de talk.
+    1. Leg in kernwoorden en tekeningen de belangrijkste informatie vast op post-its (of meteen op papier, als je durft).
     
-Na de talk:
-    Werk de sketchnote uit: 
+Na de talk.
+    2. Werk de sketchnote uit: 
       Pas hierarchie toe dmv: typografie (gebruik bijvoorbeeld verschillende lijndiktes en grootte).
       Gebruik kleur functioneel (maximaal twee kleuren)
 
