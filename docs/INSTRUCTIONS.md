@@ -56,9 +56,13 @@ Voor de talk begint:
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+Tijdens de talk:
+    Probeer in kernwoorden en tekeningen de belangrijkste informatie vast te leggen op post-its (of meteen op papier, als je durft).
+    
+Na de talk:
+    Werk de sketchnote uit: 
+      Pas hierarchie toe dmv: typografie (gebruik bijvoorbeeld verschillende lijndiktes en grootte).
+      Gebruik kleur functioneel (maximaal twee kleuren)
 
 #### Materiaal ontwerpfase
 
