@@ -68,9 +68,8 @@ Na de talk:
 
 #### Materiaal ontwerpfase
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+- [What is sketchnoting?](https://www.youtube.com/watch?v=4ItcHag3agE)
+- [How To Do Sketchnoting (Even If You "Can't Draw"!)](https://www.youtube.com/watch?v=evLCAYlx4Kw)
 
 </details>
 
