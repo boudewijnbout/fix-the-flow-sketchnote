@@ -83,7 +83,7 @@ De sketchnote is *done* als
 - [ ] Er hierarchie is toegepast d.m.v. verschillende groottes, soorten en/of diktes typografie.
 - [ ] Er hierarchie is toegepast d.m.v. kleur.
 - [ ] Er verschillende chuncks/kaders gebruikt zijn om de content te verdelen.
-- [ ] De sketchnote verzorgd is: geen gekreukeld papier.
+- [ ] De sketchnote verzorgd is: geen gekreukeld papier, ezelsoren of koffievlekken.
 - [ ] De sketchnote leesbaar is.
 
 
