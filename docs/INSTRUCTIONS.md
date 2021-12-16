@@ -30,11 +30,11 @@ Deze opdracht gaat over de volgende fases van de DLC: [analyseren](#analyseren) 
    
    Teken het volgende:
 
-1. Een titel (zie hiervoor de oefening tijdens de workshop)
-2. Een simpel portretje van de persoon die de talk geeft (zie hiervoor de oefening tijdens de workshop)
-3. De datum en tijd
-4. Een plan voor je typografie (zie hiervoor de oefening tijdens de workshop)
-5. Een plan voor je 'chuncks' met informatie (zie hiervoor de oefening tijdens de workshop)
+1. Een titel (zie hiervoor de oefening tijdens de workshop).
+2. Een simpel portretje van de persoon die de talk geeft (zie hiervoor de oefening tijdens de workshop).
+3. De datum en tijd.
+4. Een plan voor je typografie (zie hiervoor de oefening tijdens de workshop).
+5. Een plan voor je 'chuncks' met informatie (zie hiervoor de oefening tijdens de workshop).
     
 
 
