@@ -21,7 +21,8 @@ Opdracht: maak een sketchnote van de talk van Cyd Stumpel (de We love Web sessie
 Deze opdracht gaat over de volgende fases van de DLC: [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 
 ### Analyseren
-*In de analysefase bereid je de sketchnote voor.*
+
+In de analysefase bereid je de sketchnote voor.
 
 <details>
 <summary>Aanpak</summary>
@@ -47,7 +48,8 @@ Deze opdracht gaat over de volgende fases van de DLC: [analyseren](#analyseren) 
 </details>
 
 ### Ontwerpen
-*In de ontwerpfase maak je aantekeningen tijdens de talk om ze vervolgens uit te werken in een heldere, kernachtige sketchnote.*
+
+In de ontwerpfase maak je aantekeningen tijdens de talk om ze vervolgens uit te werken in een heldere, kernachtige sketchnote.
 
 <details>
 <summary>Aanpak</summary>
@@ -82,6 +84,7 @@ De sketchnote is *done* als
 - [ ] Er verschillende chuncks/kaders gebruikt zijn om de content te verdelen.
 - [ ] De sketchnote verzorgd is: geen gekreukeld papier, ezelsoren of koffievlekken.
 - [ ] De sketchnote leesbaar is.
+- [ ] De sketchnote is gedocumenteerd in de Readme van de leertaak
 
 
 Focus sprint 5 - De focus van deze sprint ligt op navigatie en informatie architectuur van een website. Organiseren en structureren van informatie, Design Patterns toepassen, Navigatie, filteren en zoekstrategieën, Micro Interacties.
