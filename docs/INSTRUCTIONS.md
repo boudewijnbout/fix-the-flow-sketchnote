@@ -11,7 +11,7 @@ Dit is een deeltaak die je individueel uitvoert. Dit is een deeltaak die je indi
 
 ## Doel van deze opdracht
 
-Je oefent in het maken van een visueel verslag. 
+Je oefent in het maken van een visueel verslag (sketchnote). 
 
 
 ## Werkwijze
