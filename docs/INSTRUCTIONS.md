@@ -6,7 +6,7 @@ Maak een sketchnote van de "We love Web talk" van vrijdag 17 december.
 ## Context
 
 Deze leertaak hoort bij sprint 5 "Fix the Flow". 
-Dit is een deeltaak die je individueel uitvoert. Dit is een deeltaak die je individueel uitvoert.
+Dit is een deeltaak die je individueel uitvoert. 
 
 
 ## Doel van deze opdracht
